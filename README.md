@@ -1,6 +1,6 @@
 # copilot-app-fun
 
-Playful one-shot static apps built with GitHub Copilot — published live via GitHub Pages.
+Playful one-shot static apps built with GitHub Copilot App — published live via GitHub Pages.
 
 ## 🎬 Demos
 
